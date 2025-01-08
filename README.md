@@ -1,7 +1,7 @@
 # jmm2025pep
 first sample repository jmm workshop
 
-This work is based upon <>
+This work is based upon <https://g4m.code4math.org>
 bold words sandwich between two **asterisks**
-add links between sideways carrots (idk what theyre called) <https://g4m.code4math.org>
+
 
