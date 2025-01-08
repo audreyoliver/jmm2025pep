@@ -8,5 +8,4 @@ bold words sandwich between two **asterisks**
 Hi mom. Hi dad.
 
 make a "local commit" but not sync it yet
-
 ![logo](prettypic.jpeg)
